@@ -1,0 +1,70 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/f:Program.cs" caret="813" fromTop="20" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/f:Settings.cs" caret="1803" fromTop="38" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Forms/f:AboutBox.cs" caret="813" fromTop="20" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/f:AssemblyCompanyUrlAttribute.cs" caret="813" fromTop="20" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:ComparableList.cs" caret="76" fromTop="3" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:PaymentDataSet.cs" caret="949" fromTop="27" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:PaymentDataSetHolder.cs" caret="1033" fromTop="2" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:PositionItem.cs" caret="910" fromTop="0" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32API.cs" caret="6732" fromTop="0" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:WindowNotFoundException.cs" caret="800" fromTop="25" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Forms/f:AboutBox.resx" caret="17861" fromTop="19" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="1179" fromTop="35" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Base.cs" caret="865" fromTop="23" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Forms/f:MainWindow.Designer.cs" caret="3368" fromTop="18" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:ToolBox.cs" caret="10607" fromTop="22" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="3394" fromTop="21" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Forms/f:MainWindow.cs" caret="6715" fromTop="15" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:PaymentPositions.cs" caret="1758" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:ToolBox.cs" caret="10648" fromTop="25" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32API.cs" caret="2055" fromTop="25" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32API.cs" caret="9706" fromTop="15" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Base.cs" caret="1753" fromTop="18" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Base.cs" caret="2120" fromTop="10" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:WindowNotFoundException.cs" caret="314" fromTop="14" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:WindowNotFoundException.cs" caret="800" fromTop="27" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Base.cs" caret="865" fromTop="1" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="865" fromTop="23" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="1139" fromTop="32" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="1981" fromTop="26" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="4475" fromTop="22" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="3985" fromTop="9" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="4355" fromTop="16" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="2710" fromTop="12" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="2790" fromTop="15" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="2425" fromTop="4" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="1672" fromTop="19" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="2584" fromTop="20" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="2927" fromTop="36" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="3062" fromTop="33" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="2457" fromTop="10" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="830" fromTop="22" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="1037" fromTop="30" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Interact.cs" caret="2084" fromTop="15" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:ToolBox.cs" caret="1777" fromTop="17" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Forms/f:MainWindow.cs" caret="0" fromTop="0" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:PaymentPositions.cs" caret="2648" fromTop="21" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="3172" fromTop="18" />
+      <File id="1AA8A2A4-132E-4F42-88E4-C005907C2241/d:Classes/f:User32Capture.cs" caret="3394" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>
